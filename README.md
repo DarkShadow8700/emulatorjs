@@ -99,4 +99,4 @@ To add an ad to the play now screen, add the following line to your code
 ```
 EJS_AdUrl = ''; //path to AD page
 ```
-Now you can play ps2 games with this emulator
+
